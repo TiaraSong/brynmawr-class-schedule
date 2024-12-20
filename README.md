@@ -1,6 +1,29 @@
 # Bryn Mawr Class Scheduling Project
 
-This project is a scheduling system for assigning classes, students, and resources (teachers, rooms) based on constraints and preferences.
+This project implements a scheduling system to allocate classes, students, and resources (teachers and rooms) efficiently while adhering to specific constraints, including:
+
+Room Capacity: Ensures no class exceeds the seating capacity of its assigned room.
+Department-Specific Rooms: Assigns classes to rooms within the building designated for their respective departments, ensuring alignment with departmental resource allocation.
+Teacher Availability: Prevents assigning a teacher to multiple classes in the same time slot.
+Student Preferences: Prioritizes scheduling based on students’ preferred classes to maximize satisfaction.
+Class Conflicts: Minimizes scheduling overlaps for classes with high student preference overlaps.
+Course Levels: Avoids scheduling prerequisite courses and their subsequent levels in the same semester for individual students.
+Lecture and Lab Coordination: Ensures that lecture and lab components of a course are scheduled without time conflicts.
+Time Slot Constraints: Allocates classes to predefined and realistic time slots within weekdays.
+By addressing these constraints, the scheduling system strives to maximize resource utilization and student satisfaction while ensuring logical and conflict-free schedules.
+
+Algorithm Overview
+The class scheduling algorithm is designed to minimize scheduling conflicts while respecting room capacity limitations and teacher availability constraints. This conflict-driven, popularity-adjusted approach utilizes a conflict matrix to identify and prioritize class pairs with the highest potential for overlap based on student preferences. The algorithm proceeds as follows:
+1. Conflict Matrix Creation: For each student, the conflict count is incremented
+for every pair of their preferred classes. The conflict matrix records the number of overlapping preferences between each pair of classes, with higher values signifying greater potential conflicts if scheduled concurrently.
+2. Priority Scheduling of High-Conflict Classes: Classes with the highest con-
+flict values are prioritized and assigned to distinct time slots to minimize overlap. This step ensures that classes with significant student preference overlap do not occur at the same time.
+3. Scheduling of Remaining Classes: After scheduling high-conflict classes, the
+remaining classes are prioritized based on students’ preference counts. Classes
+are assigned to rooms that closely match their capacity requirements, minimizing
+resource wastage, while avoiding conflicts with previously scheduled classes. In addition, teacher availability is verified to prevent any professor from being scheduled to teach multiple classes simultaneously.
+4. Student Enrollment: Students are enrolled in their preferred classes if the
+classes are available in non-conflicting time slots. If a time-slot conflict arises, students are not assigned to the overlapping class, thereby ensuring no double booking occurs.
 
 ## Directory Structure
 - **src/**: Java source code.

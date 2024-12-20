@@ -1,0 +1,156 @@
+Teacher{id=3452118, department='BIOL', courses=[001837]}
+Teacher{id=3926209, department='CHEM', courses=[002161]}
+Teacher{id=0031347, department='PHYS', courses=[006847]}
+Teacher{id=0028980, department='POLS', courses=[007007, 011321, 011322]}
+Teacher{id=3092941, department='ENGL', courses=[010725, 003454]}
+Teacher{id=3473854, department='ECON', courses=[003007, 003008, 002384, 002383]}
+Teacher{id=3083296, department='PHIL', courses=[010944, 006539, 006504, 012487]}
+Teacher{id=0162977, department='PSYC', courses=[007396]}
+Teacher{id=0851717, department='PSYC', courses=[007398, 017116]}
+Teacher{id=0321808, department='HART', courses=[004889, 009299, 004816]}
+Teacher{id=3899727, department='BIOL', courses=[001899, 015135]}
+Teacher{id=0898918, department='BIOL', courses=[013193]}
+Teacher{id=0695890, department='EDUC', courses=[003275, 015500, 002420, 008470]}
+Teacher{id=0254151, department='ANTH', courses=[001249]}
+Teacher{id=3646542, department='GEOL', courses=[004306, 001185, 004290, 001845]}
+Teacher{id=0031631, department='PSYC', courses=[007407, 015243]}
+Teacher{id=4177943, department='SOCL', courses=[016952, 008423, 008420]}
+Teacher{id=4360396, department='ARTW', courses=[001766]}
+Teacher{id=1167978, department='COML', courses=[002653, 004066]}
+Teacher{id=0820103, department='PSYC', courses=[015113, 007375, 015114]}
+Teacher{id=4392595, department='HIST', courses=[005295, 016440, 017122]}
+Teacher{id=0826176, department='HIST', courses=[017117]}
+Teacher{id=3459335, department='BIOL', courses=[013627]}
+Teacher{id=3443571, department='HIST', courses=[016878, 016879]}
+Teacher{id=1024995, department='ENGL', courses=[016984, 016985]}
+Teacher{id=4273392, department='PSYC', courses=[016609]}
+Teacher{id=0207327, department='MATH', courses=[006043, 010851]}
+Teacher{id=0972342, department='MATH', courses=[006026, 006049]}
+Teacher{id=4354081, department='PSYC', courses=[007368, 017126]}
+Teacher{id=4170297, department='BIOL', courses=[011295]}
+Teacher{id=3393009, department='ENGL', courses=[003460]}
+Teacher{id=0024092, department='ENGL', courses=[003485, 003421]}
+Teacher{id=0897706, department='ENGL', courses=[010965, 003441, 002669]}
+Teacher{id=3318436, department='ENGL', courses=[013286, 016846]}
+Teacher{id=4092864, department='ANTH', courses=[001164]}
+Teacher{id=3460456, department='FREN', courses=[004016, 011342]}
+Teacher{id=0409737, department='MATH', courses=[006060, 006035]}
+Teacher{id=4362771, department='ITAL', courses=[005734, 005741, 005725, 005745]}
+Teacher{id=3198619, department='POLS', courses=[007128, 013184, 013155, 013183]}
+Teacher{id=4168993, department='ITAL', courses=[016862, 016863]}
+Teacher{id=3927849, department='ARTW', courses=[001765, 001755]}
+Teacher{id=3996107, department='SPAN', courses=[008801, 008769]}
+Teacher{id=0020093, department='ARCH', courses=[001474, 001424]}
+Teacher{id=0564741, department='CMSC', courses=[002571, 002564, 006582]}
+Teacher{id=0672202, department='HART', courses=[004885, 004807]}
+Teacher{id=4170165, department='HIST', courses=[017118, 005258]}
+Teacher{id=4089710, department='FREN', courses=[004010]}
+Teacher{id=0138190, department='PHIL', courses=[006542, 002686, 003493]}
+Teacher{id=4354559, department='ANTH', courses=[001152]}
+Teacher{id=0701976, department='PSYC', courses=[015869]}
+Teacher{id=0599596, department='ENGL', courses=[003541, 003465, 014180, 014185]}
+Teacher{id=0854975, department='FREN', courses=[004023, 004015]}
+Teacher{id=3646540, department='FREN', courses=[004036]}
+Teacher{id=0493855, department='HIST', courses=[005263, 009304]}
+Teacher{id=0409956, department='BIOL', courses=[014099, 014569]}
+Teacher{id=3448653, department='HIST', courses=[005228, 004304, 012818, 014969]}
+Teacher{id=0058557, department='ENGL', courses=[016886]}
+Teacher{id=3194197, department='SPAN', courses=[015416, 008773, 015417]}
+Teacher{id=3479968, department='CSTS', courses=[016852, 016885, 005846]}
+Teacher{id=3436165, department='HART', courses=[004874, 017106, 017105]}
+Teacher{id=1020104, department='HIST', courses=[005154, 017127, 001158]}
+Teacher{id=0492451, department='EDUC', courses=[011962, 003270]}
+Teacher{id=0125630, department='SOCL', courses=[015860, 009362]}
+Teacher{id=1061058, department='ARTW', courses=[001771]}
+Teacher{id=0031373, department='CITY', courses=[002412, 004838]}
+Teacher{id=4172051, department='PHYS', courses=[016926]}
+Teacher{id=3332662, department='ECON', courses=[012665, 003014, 011859]}
+Teacher{id=0031399, department='PHIL', courses=[006500, 006565]}
+Teacher{id=0031336, department='SOCL', courses=[014140, 007051]}
+Teacher{id=4089714, department='ARTD', courses=[012355]}
+Teacher{id=4354612, department='ECON', courses=[003029, 003019, 002404]}
+Teacher{id=4354604, department='CITY', courses=[002464, 001242, 009232, 014310]}
+Teacher{id=0031611, department='PSYC', courses=[007403, 007381]}
+Teacher{id=4092861, department='PHIL', courses=[006538, 006588]}
+Teacher{id=4172060, department='GNST', courses=[015248]}
+Teacher{id=3764403, department='CSTS', courses=[015016, 011987, 004740]}
+Teacher{id=0853792, department='ARCH', courses=[001444, 010933]}
+Teacher{id=0901151, department='ARCH', courses=[001457, 001427, 002373]}
+Teacher{id=0316015, department='SOCL', courses=[008495, 007113, 007028, 002390]}
+Teacher{id=3474420, department='ARTW', courses=[001774, 016855]}
+Teacher{id=0031572, department='SPAN', courses=[016844, 008821]}
+Teacher{id=4170914, department='ITAL', courses=[005723, 014523, 014537]}
+Teacher{id=3818520, department='MATH', courses=[006041]}
+Teacher{id=0031526, department='MATH', courses=[006045]}
+Teacher{id=0031386, department='RUSS', courses=[007878]}
+Teacher{id=0180723, department='CHEM', courses=[002164]}
+Teacher{id=4090501, department='CHEM', courses=[011827, 001871]}
+Teacher{id=4354090, department='BIOL', courses=[011190, 011208]}
+Teacher{id=0697660, department='CITY', courses=[002368, 002433, 004810]}
+Teacher{id=1168490, department='CMSC', courses=[002562, 013915]}
+Teacher{id=3839982, department='MATH', courses=[006031, 006024]}
+Teacher{id=0428815, department='CHEM', courses=[002153]}
+Teacher{id=0031619, department='SOCL', courses=[012107]}
+Teacher{id=0899465, department='SPAN', courses=[008770]}
+Teacher{id=0492580, department='ECON', courses=[013613, 013647, 003002, 002374]}
+Teacher{id=0031582, department='HIST', courses=[005161, 013210, 002874, 005853]}
+Teacher{id=3420576, department='SOCL', courses=[013185, 008469]}
+Teacher{id=0493725, department='CITY', courses=[002397, 013342]}
+Teacher{id=4354084, department='POLS', courses=[011237, 016843, 011238]}
+Teacher{id=4196252, department='ARTT', courses=[001750]}
+Teacher{id=4358918, department='ECON', courses=[002992]}
+Teacher{id=3435819, department='RUSS', courses=[007923, 007882]}
+Teacher{id=0431946, department='RUSS', courses=[015010, 017104, 011296]}
+Teacher{id=4170946, department='HART', courses=[016614]}
+Teacher{id=0168378, department='CHEM', courses=[002163]}
+Teacher{id=0827051, department='CNSE', courses=[014114, 015013]}
+Teacher{id=4362871, department='SPAN', courses=[008764]}
+Teacher{id=0806046, department='HIST', courses=[017120]}
+Teacher{id=0847593, department='GERM', courses=[004360, 002671, 004356, 004379]}
+Teacher{id=3194193, department='HART', courses=[004809, 016445]}
+Teacher{id=4354080, department='ANTH', courses=[009386, 001176]}
+Teacher{id=3927894, department='POLS', courses=[015855, 015856]}
+Teacher{id=0213446, department='MATH', courses=[006034]}
+Teacher{id=0031573, department='PHIL', courses=[006523, 007032]}
+Teacher{id=4091222, department='ANTH', courses=[016882]}
+Teacher{id=1084458, department='CSTS', courses=[002876]}
+Teacher{id=4273391, department='HEBR', courses=[005120]}
+Teacher{id=0022277, department='ARTW', courses=[009225]}
+Teacher{id=1167884, department='PHYS', courses=[006851]}
+Teacher{id=4168989, department='SPAN', courses=[008774, 008778]}
+Teacher{id=1165566, department='GEOL', courses=[004276, 004282]}
+Teacher{id=0031756, department='ARTD', courses=[001546, 001563, 012354, 015015]}
+Teacher{id=3577228, department='ANTH', courses=[015841]}
+Teacher{id=4176433, department='ARTW', courses=[001763]}
+Teacher{id=0949010, department='GEOL', courses=[004275]}
+Teacher{id=3460008, department='ARTT', courses=[001758]}
+Teacher{id=4177047, department='CMSC', courses=[002567, 006038]}
+Teacher{id=3197197, department='FREN', courses=[004012]}
+Teacher{id=0897399, department='ENGL', courses=[013919, 013920]}
+Teacher{id=4466695, department='ARTD', courses=[012352]}
+Teacher{id=1167851, department='ENGL', courses=[003406]}
+Teacher{id=0129398, department='ARTD', courses=[015655, 001552, 015432]}
+Teacher{id=0020988, department='CITY', courses=[002396]}
+Teacher{id=3461209, department='PHYS', courses=[006860, 010860]}
+Teacher{id=3646602, department='PHYS', courses=[006874]}
+Teacher{id=0683480, department='ARTD', courses=[012353]}
+Teacher{id=0162976, department='INST', courses=[015445, 007041]}
+Teacher{id=0775506, department='GERM', courses=[004362]}
+Teacher{id=3996564, department='ARAB', courses=[013213]}
+Teacher{id=0802802, department='GEOL', courses=[017168, 004293]}
+Teacher{id=3926311, department='BIOL', courses=[016894]}
+Teacher{id=0750235, department='PHYS', courses=[006868]}
+Teacher{id=0402773, department='PHYS', courses=[016923]}
+Teacher{id=4358919, department='CITY', courses=[002395, 002469, 004825]}
+Teacher{id=0772775, department='RUSS', courses=[007888, 012734]}
+Teacher{id=3995790, department='EALC', courses=[012320, 016832, 017171, 017121]}
+Teacher{id=1137952, department='HIST', courses=[005272, 005190]}
+Teacher{id=0775640, department='GNST', courses=[010966]}
+Teacher{id=1168592, department='SOCL', courses=[012735]}
+Teacher{id=1008897, department='ARTT', courses=[001757]}
+Teacher{id=3896859, department='ARTT', courses=[001752]}
+Teacher{id=3478658, department='GNST', courses=[015678]}
+Teacher{id=4464860, department='EALC', courses=[017172, 017173]}
+Teacher{id=3402041, department='ACSK', courses=[001010]}
+Teacher{id=3478855, department='ARTD', courses=[015651]}
+Teacher{id=4091999, department='ARTD', courses=[015650]}

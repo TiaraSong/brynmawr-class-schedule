@@ -1,0 +1,69 @@
+Room{name='PK25', capacity=81, department=[BIOL, CHEM, PHYS, GEOL, MATH, CMCS]}
+Room{name='PK20', capacity=152, department=[BIOL, CHEM, PHYS, GEOL, MATH, CMCS]}
+Room{name='PK179', capacity=44, department=[BIOL, CHEM, PHYS, GEOL, MATH, CMCS]}
+Room{name='PK243', capacity=59, department=[BIOL, CHEM, PHYS, GEOL, MATH, CMCS]}
+Room{name='DAL300', capacity=29, department=[POLS, ENGL, ECON, PHIL, ANTH, EDUC, SOCL, ARTW, COML, HIST, CITY, CNSE, GERM, INST, ACSK]}
+Room{name='DAL119', capacity=50, department=[POLS, ENGL, ECON, PHIL, ANTH, EDUC, SOCL, ARTW, COML, HIST, CITY, CNSE, GERM, INST, ACSK]}
+Room{name='CARP21', capacity=55, department=[ECON, PHIL, PSYC, HART, COML, HIST, ARCH, GREK, CITY]}
+Room{name='TH116', capacity=19, department=[PHIL, ECON, HART, ARTW, COML, HIST, FREN, ITAL, SPAN, ARCH, CSTS, CITY, GNST, RUSS, ARTT, ARCM, LATN, EALC, ANTH]}
+Room{name='BYC127', capacity=31, department=[PSYC, HIST, ITAL, GERM, COML, ARBR]}
+Room{name='BYC106', capacity=35, department=[PSYC, HIST, ITAL, GERM, COML, ARBR]}
+Room{name='CARP25', capacity=18, department=[ECON, PHIL, PSYC, HART, COML, HIST, ARCH, GREK, CITY]}
+Room{name='PK227', capacity=11, department=[BIOL, CHEM, PHYS, GEOL, MATH, CMCS]}
+Room{name='PK229', capacity=22, department=[BIOL, CHEM, PHYS, GEOL, MATH, CMCS]}
+Room{name='TAYF', capacity=40, department=[PSYC, HIST, ITAL, GERM, COML, ARBR]}
+Room{name='DAL25', capacity=24, department=[POLS, ENGL, ECON, PHIL, ANTH, EDUC, SOCL, ARTW, COML, HIST, CITY, CNSE, GERM, INST, ACSK]}
+Room{name='PK259', capacity=19, department=[BIOL, CHEM, PHYS, GEOL, MATH, CMCS]}
+Room{name='TAYG', capacity=34, department=[EDUC, SOCL, COML, CSTS]}
+Room{name='EHIII', capacity=15, department=[ENGL, ARTW, HIST, COML]}
+Room{name='TAYE', capacity=31, department=[PSYC, SOCL, FREN, RUSS]}
+Room{name='BYC239', capacity=14, department=[PSYC, HIST, ITAL, GERM, COML, ARBR]}
+Room{name='TH111', capacity=28, department=[PHIL, ECON, HART, ARTW, COML, HIST, FREN, ITAL, SPAN, ARCH, CSTS, CITY, GNST, RUSS, ARTT, ARCM, LATN, EALC, ANTH]}
+Room{name='PK126', capacity=24, department=[BIOL, CHEM, PHYS, GEOL, MATH, CMCS]}
+Room{name='EHI', capacity=19, department=[ENGL, ARTW, HIST, COML]}
+Room{name='PK349', capacity=50, department=[BIOL, CHEM, PHYS, GEOL, MATH, CMCS]}
+Room{name='EHLEC', capacity=18, department=[ENGL]}
+Room{name='EHII', capacity=18, department=[ENGL, ARTW, HIST, COML]}
+Room{name='TAYD', capacity=29, department=[POLS, PHIL, ANTH, FREN, GNST, GERM]}
+Room{name='PK336', capacity=19, department=[BIOL, CHEM, PHYS, GEOL, MATH, CMCS]}
+Room{name='BYC100', capacity=9, department=[PSYC, HIST, ITAL, GERM, COML, ARBR]}
+Room{name='TAYSEM', capacity=17, department=[POLS, ENVS, CITY, HEBR]}
+Room{name='DAL212A', capacity=19, department=[POLS, ENGL, ECON, PHIL, ANTH, EDUC, SOCL, ARTW, COML, HIST, CITY, CNSE, GERM, INST, ACSK]}
+Room{name='TH104', capacity=28, department=[PHIL, ECON, HART, ARTW, COML, HIST, FREN, ITAL, SPAN, ARCH, CSTS, CITY, GNST, RUSS, ARTT, ARCM, LATN, EALC, ANTH]}
+Room{name='TH102', capacity=12, department=[PHIL, ECON, HART, ARTW, COML, HIST, FREN, ITAL, SPAN, ARCH, CSTS, CITY, GNST, RUSS, ARTT, ARCM, LATN, EALC, ANTH]}
+Room{name='PK338', capacity=65, department=[BIOL, CHEM, PHYS, GEOL, MATH, CMCS]}
+Room{name='CARP13', capacity=7, department=[ECON, PHIL, PSYC, HART, COML, HIST, ARCH, GREK, CITY]}
+Room{name='TH224', capacity=45, department=[PHIL, ECON, HART, ARTW, COML, HIST, FREN, ITAL, SPAN, ARCH, CSTS, CITY, GNST, RUSS, ARTT, ARCM, LATN, EALC, ANTH]}
+Room{name='DAL212E', capacity=9, department=[POLS, ENGL, ECON, PHIL, ANTH, EDUC, SOCL, ARTW, COML, HIST, CITY, CNSE, GERM, INST, ACSK]}
+Room{name='DAL1', capacity=21, department=[POLS, ENGL, ECON, PHIL, ANTH, EDUC, SOCL, ARTW, COML, HIST, CITY, CNSE, GERM, INST, ACSK]}
+Room{name='TAYB', capacity=13, department=[FREN]}
+Room{name='CARP15', capacity=14, department=[ECON, PHIL, PSYC, HART, COML, HIST, ARCH, GREK, CITY]}
+Room{name='PK278', capacity=78, department=[BIOL, CHEM, PHYS, GEOL, MATH, CMCS]}
+Room{name='DAL2', capacity=20, department=[POLS, ENGL, ECON, PHIL, ANTH, EDUC, SOCL, ARTW, COML, HIST, CITY, CNSE, GERM, INST, ACSK]}
+Room{name='DAL10', capacity=11, department=[POLS, ENGL, ECON, PHIL, ANTH, EDUC, SOCL, ARTW, COML, HIST, CITY, CNSE, GERM, INST, ACSK]}
+Room{name='PEMSTD', capacity=6, department=[ARTD]}
+Room{name='PK180', capacity=78, department=[BIOL, CHEM, PHYS, GEOL, MATH, CMCS]}
+Room{name='CAN205', capacity=7, department=[HART]}
+Room{name='RCSEM', capacity=12, department=[ARTW, RUSS]}
+Room{name='RCCON', capacity=13, department=[GNST, RUSS]}
+Room{name='PK264', capacity=11, department=[BIOL, CHEM, PHYS, GEOL, MATH, CMCS]}
+Room{name='TH110', capacity=58, department=[PHIL, ECON, HART, ARTW, COML, HIST, FREN, ITAL, SPAN, ARCH, CSTS, CITY, GNST, RUSS, ARTT, ARCM, LATN, EALC, ANTH]}
+Room{name='TAYC', capacity=16, department=[SPAN]}
+Room{name='DAL6', capacity=14, department=[POLS, ENGL, ECON, PHIL, ANTH, EDUC, SOCL, ARTW, COML, HIST, CITY, CNSE, GERM, INST, ACSK]}
+Room{name='GOHEP', capacity=17, department=[ARTT]}
+Room{name='TH118', capacity=9, department=[PHIL, ECON, HART, ARTW, COML, HIST, FREN, ITAL, SPAN, ARCH, CSTS, CITY, GNST, RUSS, ARTT, ARCM, LATN, EALC, ANTH]}
+Room{name='CARP17', capacity=12, department=[ECON, PHIL, PSYC, HART, COML, HIST, ARCH, GREK, CITY]}
+Room{name='PK354', capacity=15, department=[BIOL, CHEM, PHYS, GEOL, MATH, CMCS]}
+Room{name='TH223', capacity=10, department=[PHIL, ECON, HART, ARTW, COML, HIST, FREN, ITAL, SPAN, ARCH, CSTS, CITY, GNST, RUSS, ARTT, ARCM, LATN, EALC, ANTH]}
+Room{name='GOB', capacity=28, department=[ARTD]}
+Room{name='GOCOM', capacity=6, department=[ARTT]}
+Room{name='ROSTUD', capacity=8, department=[CITY]}
+Room{name='PK337', capacity=15, department=[BIOL, CHEM, PHYS, GEOL, MATH, CMCS]}
+Room{name='PK154', capacity=7, department=[BIOL, CHEM, PHYS, GEOL, MATH, CMCS]}
+Room{name='PK247', capacity=7, department=[BIOL, CHEM, PHYS, GEOL, MATH, CMCS]}
+Room{name='PK328', capacity=6, department=[BIOL, CHEM, PHYS, GEOL, MATH, CMCS]}
+Room{name='DAL315', capacity=5, department=[POLS, ENGL, ECON, PHIL, ANTH, EDUC, SOCL, ARTW, COML, HIST, CITY, CNSE, GERM, INST, ACSK]}
+Room{name='PK100', capacity=19, department=[BIOL, CHEM, PHYS, GEOL, MATH, CMCS]}
+Room{name='PK200', capacity=3, department=[BIOL, CHEM, PHYS, GEOL, MATH, CMCS]}
+Room{name='TH129', capacity=6, department=[PHIL, ECON, HART, ARTW, COML, HIST, FREN, ITAL, SPAN, ARCH, CSTS, CITY, GNST, RUSS, ARTT, ARCM, LATN, EALC, ANTH]}
+Room{name='DEDANCE', capacity=4, department=[ARTD]}

@@ -1,0 +1,1 @@
+Iteration 0: Trying to improve fit for class - ClassFit{classId='e', department='null', timeSlot='T i', roomName='m', teacherId='', roomCapacity=1, students=[S], fitPercentage=0.0, enrollmentCount=1}

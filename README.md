@@ -16,8 +16,7 @@ Algorithm Overview
 The class scheduling algorithm is designed to minimize scheduling conflicts while respecting room capacity limitations and teacher availability constraints. This conflict-driven, popularity-adjusted approach utilizes a conflict matrix to identify and prioritize class pairs with the highest potential for overlap based on student preferences. The algorithm proceeds as follows:
 1. Conflict Matrix Creation: For each student, the conflict count is incremented
 for every pair of their preferred classes. The conflict matrix records the number of overlapping preferences between each pair of classes, with higher values signifying greater potential conflicts if scheduled concurrently.
-2. Priority Scheduling of High-Conflict Classes: Classes with the highest con-
-flict values are prioritized and assigned to distinct time slots to minimize overlap. This step ensures that classes with significant student preference overlap do not occur at the same time.
+2. Priority Scheduling of High-Conflict Classes: Classes with the highest conflict values are prioritized and assigned to distinct time slots to minimize overlap. This step ensures that classes with significant student preference overlap do not occur at the same time.
 3. Scheduling of Remaining Classes: After scheduling high-conflict classes, the
 remaining classes are prioritized based on students’ preference counts. Classes
 are assigned to rooms that closely match their capacity requirements, minimizing

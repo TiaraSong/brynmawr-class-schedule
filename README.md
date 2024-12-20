@@ -12,7 +12,7 @@ Lecture and Lab Coordination: Ensures that lecture and lab components of a cours
 Time Slot Constraints: Allocates classes to predefined and realistic time slots within weekdays.
 By addressing these constraints, the scheduling system strives to maximize resource utilization and student satisfaction while ensuring logical and conflict-free schedules.
 
-Algorithm Overview
+## Algorithm Overview
 The class scheduling algorithm is designed to minimize scheduling conflicts while respecting room capacity limitations and teacher availability constraints. This conflict-driven, popularity-adjusted approach utilizes a conflict matrix to identify and prioritize class pairs with the highest potential for overlap based on student preferences. The algorithm proceeds as follows:
 1. Conflict Matrix Creation: For each student, the conflict count is incremented
 for every pair of their preferred classes. The conflict matrix records the number of overlapping preferences between each pair of classes, with higher values signifying greater potential conflicts if scheduled concurrently.
